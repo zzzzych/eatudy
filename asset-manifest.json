@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eatudy/static/css/main.073c9b0a.css",
+    "main.js": "/eatudy/static/js/main.5cfba07f.js",
+    "static/js/787.ab8e3869.chunk.js": "/eatudy/static/js/787.ab8e3869.chunk.js",
+    "static/media/logo.svg": "/eatudy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eatudy/index.html",
+    "main.073c9b0a.css.map": "/eatudy/static/css/main.073c9b0a.css.map",
+    "main.5cfba07f.js.map": "/eatudy/static/js/main.5cfba07f.js.map",
+    "787.ab8e3869.chunk.js.map": "/eatudy/static/js/787.ab8e3869.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5cfba07f.js"
+  ]
+}
