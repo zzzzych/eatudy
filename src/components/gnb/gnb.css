@@ -1,0 +1,17 @@
+.gnb .srh {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.gnb .srh .input-srh {
+  padding: 3px 5px;
+  border-bottom: 1px solid #d7d7d7;
+  text-align: center;
+}
+.gnb .srh .btn-srh {
+  font-size: 1.15rem;
+}
+.gnb .gnb-link {
+  display: flex;
+  flex-direction: column;
+}
